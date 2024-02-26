@@ -10,9 +10,8 @@ Here is a collection of badges I earned from completing Microsoft Learn's TypeSc
 4. **Develop Typed Functions in TypeScript**: [Badge](https://learn.microsoft.com/api/achievements/share/en-us/EvgenyKuzmin-3585/BLQ4YJYD?sharingId=BCB42FC5864BC3BA)
 5. **Declare and Instantiate Classes in TypeScript**: [Badge](https://learn.microsoft.com/api/achievements/share/en-us/EvgenyKuzmin-3585/VKRFFAJM?sharingId=BCB42FC5864BC3BA)
 6. **Generics in TypeScript**: [Badge](https://learn.microsoft.com/api/achievements/share/en-us/EvgenyKuzmin-3585/J6PBFVJT?sharingId=BCB42FC5864BC3BA)
-7. **Work with External Libraries in TypeScript**: [Badge](badge-link)
-8. **Organize Code with Namespaces in TypeScript**: [Badge](badge-link)
+7. **Work with External Libraries in TypeScript**: [Badge](https://learn.microsoft.com/api/achievements/share/ru-ru/EvgenyKuzmin-3585/3XG9T2KH?sharingId=BCB42FC5864BC3BA)
+8. **Organize Code with Namespaces in TypeScript**: [Badge](https://learn.microsoft.com/api/achievements/share/en-us/EvgenyKuzmin-3585/4SVE7NCK?sharingId=BCB42FC5864BC3BA)
 
 ## Reflections
 
-[Add your personal reflections on what you learned in each module and how it contributes to your development skills]
